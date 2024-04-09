@@ -2,8 +2,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+me+chamo+Alisson+Felipe!;" />
 </h1>
 
-![snake gif](https://github.com/AlissonFelipeBS/AlissonFelipeBS/blob/output/github-contribution-grid-snake.gif)
-
 <!-- Presentation -->
 <p>
   
@@ -80,3 +78,4 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
   </h1>
   </div>
+![snake gif](https://github.com/AlissonFelipeBS/AlissonFelipeBS/blob/output/github-contribution-grid-snake.gif)
