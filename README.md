@@ -20,13 +20,8 @@
   - ⚡ I like studying, going out with my wife and daughter, watching series, playing football and going to the gym.
 </details>
 
-<!-- Portfolio -->
-## Portfolio:
-[![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://sites.google.com/view/portfolioalissonfelipe/home)
-</div>
-
 <!-- Links -->
-## Contatos:
+[![Portfólio PBI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://sites.google.com/view/portfolioalissonfelipe/home)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe.b08/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-brand%C3%A3o-04204a176/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/551799667210)
@@ -39,9 +34,12 @@
  </div>
   
 <!-- GIF -->
+<div>
 <p align="left">
+  
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
+</div>
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
