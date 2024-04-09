@@ -20,20 +20,22 @@
   - ⚡ I like studying, going out with my wife and daughter, watching series, playing football and going to the gym.
 </details>
 
+<!-- Portfolio -->
+## Portfolio:
+[![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://sites.google.com/view/portfolioalissonfelipe/home)
+</div>
+
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe.b08/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-brand%C3%A3o-04204a176/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/551799667210)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alisson.fbrandao@gmail.com)
 
 <!-- GithubStats -->
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=AlissonFelipeBS&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=AlissonFelipeBS&show_icons=true&theme=radical&layout=compact" />
  </div>
-
-<!-- Portfolio -->
-## Portfolio:
-[![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://sites.google.com/view/portfolioalissonfelipe/home)
-</div>
   
 <!-- GIF -->
 <p align="left">
