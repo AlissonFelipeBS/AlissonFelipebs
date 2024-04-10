@@ -34,7 +34,7 @@
  </div>
 
 <!-- PORTFOLIO -->
-## Portfólio
+## Portfolio
   [![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://sites.google.com/view/portfolioalissonfelipe/home)
   
 <!-- GIF -->
