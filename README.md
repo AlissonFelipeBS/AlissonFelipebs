@@ -8,7 +8,7 @@
   
   - <img align="center" alt="Power BI" height="23" width="20" src="https://github.com/marclelijveld/Power-BI-Icons-Archived/blob/master/General%20Icons%20PNG/pbix.png"/>  Business Intelligence Professional | Python, SQL and Power BI.
   
-  - 🔭  Brazilian physicist passionate about Astronomy and Technology, using programming and data intelligence to solve the great enigmas of the universe.
+  - 🔭  Physicist and Data Science Graduate, Brazilian passionate about Astronomy and Technology, using programming and data intelligence to solve the great enigmas of the universe.
 
 </p>
 
